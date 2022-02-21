@@ -1,0 +1,5 @@
+s=input('Write your name ')
+f=input( ' write your surname ')
+s=s.capitalize()
+f=f.capitalize()
+print(f+' ' +s)
